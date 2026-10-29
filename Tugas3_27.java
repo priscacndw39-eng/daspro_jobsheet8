@@ -27,8 +27,7 @@ public class Tugas3_27 {
                     }
                 } while (jumlahPelanggan < 0);
  
-                int totalBarangToko = 0;   // di-reset tiap toko
- 
+                int totalBarangToko = 0;  
                 for (int pelanggan = 1; pelanggan <= jumlahPelanggan; pelanggan++) {
                     int barang;
  
